@@ -6,7 +6,7 @@ def parcelas(p, valor):
 
 def main():
     p = 1
-    v = int(input())
+    v = int(input('Digite o valor: '))
 
     resultado = parcelas(p, v)
 
